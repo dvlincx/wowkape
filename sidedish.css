@@ -1,0 +1,30 @@
+﻿.side-dish-types {
+    margin-top: 50px;
+    background-color: #d492c6; /* Change background color here */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for each side dish type item */
+.side-dish-type {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Style for side dish type title */
+.side-dish-type h3 {
+    color: #d32ea2;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+/* Style for side dish type description */
+.side-dish-type p {
+    color: #333;
+    font-size: 16px;
+    line-height: 1.6;
+}

@@ -1,0 +1,31 @@
+﻿.main-course-types {
+    margin-top: 50px;
+    background-color: #8998ec; /* Change background color here */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+
+/* Style for each main course type item */
+.main-course-type {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Style for main course type title */
+.main-course-type h3 {
+    color: #6350ec;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+/* Style for main course type description */
+.main-course-type p {
+    color: #333;
+    font-size: 16px;
+    line-height: 1.6;
+}

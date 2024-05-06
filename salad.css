@@ -1,0 +1,31 @@
+﻿.salad-types {
+    margin-top: 50px;
+    background-color: #6a8a5c; /* Change background color here */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.salad-type {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+.salad-type h3 {
+    color: #7bad7d;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+
+.salad-type p {
+    color: #333;
+    font-size: 16px;
+    line-height: 1.6;
+}

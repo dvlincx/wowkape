@@ -1,0 +1,30 @@
+﻿.cookie-types {
+    margin-top: 50px;
+    background-color: #ebb96f; /* Change background color here */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.cookie-type {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+.cookie-type h3 {
+    color: #e69429;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+
+.cookie-type p {
+    color: #333;
+    font-size: 16px;
+    line-height: 1.6;
+}
